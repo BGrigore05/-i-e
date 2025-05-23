@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+body {
+    background: linear-gradient(to right, #2A6184 0%, #2A6184 5%, #E1DFD2 25%, #E1DFD2 100%);
+    color: #162F40;
+    font-family: "Comfortaa", sans-serif;
+    scroll-behavior: smooth;
+}
+html {
+    scroll-behavior: smooth;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.halfBack {
+    z-index: 1;
+    background-color: #2A6184;
+    width: 1600px;
+    height: 1600px;
+    margin-top: -1760px;
+    margin-left: 850px;
+    transform: rotate(40deg);
+    position: absolute;
+}
+.h1-s1 {
+    font-family: "Comfortaa", sans-serif; 
+    z-index: 3;
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+
+}
+.h1-s{
+    z-index: 3;
+    position: relative;
+    font-size: 50px;
+    margin-top: 400px;
+    opacity: 0;
+    text-align: center;
+    font-family: "Comfortaa", sans-serif;
+}
+.oranges {
+    z-index: 2;
+    position: relative;
+    margin-top: -370px;
+    margin-left: 580px;
+    width: 600px;
+}
+.btn {
+    width: 200px;
+    height: 30px;
+    background-color: rgba(36, 68, 133, 0.577);
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: box-shadow 1s ease;
+    margin-left: 750px;
+    margin-top: 10px;
+}
+.btn:hover {
+    transition:box-shadow 1s ease ;
+    box-shadow: 0 0 30px white;
+}
+.colorUnderSectionGlobal{
+    background: linear-gradient(to right, #2A6184 0%, #2A6184 5%, #E1DFD2 25%, #E1DFD2 100%);
+    color: #162F40;
+    width: 110%;
+    margin-top: 102px;
+    height: 120px;
+    z-index: 4;
+    position: relative;
+}
+.headerOfSection h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.section {
+    margin-top: 200px;
+    height: 700px;
+}
+.headerOfSection h3 {
+    margin-left: 630px;
+    font-size: 30px;
+    margin-top: -250px;
+}
+.headerOfSection2 h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.section2 {
+    margin-top: 200px;
+    height: 700px;
+}
+.headerOfSection2 h3 {
+    margin-left: 630px;
+    font-size: 30px;
+    margin-top: -250px;
+}
+.headerOfSection3 h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.section3 {
+    margin-top: 200px;
+    height: 700px;
+}
+.headerOfSection3 h3 {
+    margin-left: 630px;
+    font-size: 30px;
+    margin-top: -250px;
+}
+.headerOfSection4 h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.section4 {
+    margin-top: 200px;
+    height: 700px;
+}
+.headerOfSection4 h3 {
+    margin-left: 630px;
+    font-size: 30px;
+    margin-top: -250px;
+}
+.headerOfSection5 h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.section5 {
+    margin-top: 200px;
+    height: 700px;
+}
+.headerOfSection5 h3 {
+    margin-left: 630px;
+    font-size: 30px;
+    margin-top: -250px;
+}
+.headerOfSection6 h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.section6 {
+    margin-top: 200px;
+    height: 700px;
+}
+.headerOfSection6 h3 {
+    margin-left: 630px;
+    font-size: 30px;
+    margin-top: -250px;
+}
+.headerOfSection7 h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.section7 {
+    margin-top: 200px;
+    height: 700px;
+}
+.headerOfSection7 h3 {
+    margin-left: 630px;
+    font-size: 30px;
+    margin-top: -250px;
+}
+.headerOfSection8 h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.section8 {
+    margin-top: 200px;
+    height: 700px;
+}
+.headerOfSection8 h3 {
+    margin-left: 630px;
+    font-size: 30px;
+    margin-top: -250px;
+}
+.headerOfSection9 h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.section9 {
+    margin-top: 200px;
+    height: 700px;
+}
+.headerOfSection9 h3 {
+    margin-left: 630px;
+    font-size: 30px;
+    margin-top: -250px;
+}
